@@ -13,3 +13,8 @@
    * Got acquainted with the JavaScript and React by doing a workshop.
    * Passing the exam in college typeset html page.
    * Was preparing a React website project for college.
+  1. During self-study I:
+   * Studied courses on HtmlAcademy.
+   * Watched workshops on youtube.
+   * Listened to a college programming teacher.
+  1. My english is not very good, but I try to study diligently in the classroom and do self-education at home.
